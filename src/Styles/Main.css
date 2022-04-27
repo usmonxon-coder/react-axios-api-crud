@@ -1,0 +1,11 @@
+@media (max-width: 767px) {
+  .main .container .forma {
+    flex-direction: column;
+  }
+  .main .container .salom {
+    overflow: scroll;
+  }
+  .main .container .salom .table {
+    width: 600px;
+  }
+}
